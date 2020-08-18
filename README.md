@@ -1,4 +1,4 @@
-# :peace: Hey, I'm James Pratt
+# :v: Hey, I'm James Pratt
 I taught myself how to write computer code. I am currently just finding little projects to entertain myself with.
 **I currently attend Santa Clara and I am majoring in Finance**
 
