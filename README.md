@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey, I'm James Pratt
-I taught myself how to write computer code. I am currently just finding little projects to entertain myself with.
-**I currently attend Santa Clara and I am majoring in Finance**
+* I am self-taught programmer and I love learning while coding a new project
+* I currently attend Santa Clara and I am majoring in Finance
 
 ### My Languages (in order of proficiency)
 * HTML, CSS (and Sass)
@@ -9,12 +9,12 @@ I taught myself how to write computer code. I am currently just finding little p
 * Python (a bit of AI with py torch)
 * C
 
+check out the website
 
-I have a website that is pretty clean www.jamesdpratt.com
+I love a good project, HMU -> email
+
+Social medias
 
 
-```javascript
-const James Pratt = {
-  type: "one chill mother fucker",
-}
-```
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=timkauai&theme=<THEME_NAME>" />
