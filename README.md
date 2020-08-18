@@ -1,4 +1,4 @@
-# :v: Hey, I'm James Pratt
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey, I'm James Pratt
 I taught myself how to write computer code. I am currently just finding little projects to entertain myself with.
 **I currently attend Santa Clara and I am majoring in Finance**
 
@@ -18,8 +18,3 @@ const James Pratt = {
   type: "one chill mother fucker",
 }
 ```
-
-
-
-
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
