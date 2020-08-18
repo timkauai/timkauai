@@ -18,3 +18,9 @@ const James Pratt = {
   type: "one chill mother fucker",
 }
 ```
+
+
+
+```
+![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+```
