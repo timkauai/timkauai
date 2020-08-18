@@ -8,3 +8,13 @@ I taught myself how to write computer code. I am currently just finding little p
 * Swift
 * Python (a bit of AI with py torch)
 * C
+
+
+I have a website that is pretty clean www.jamesdpratt.com
+
+
+```javascript
+const James Pratt = {
+  type: "one chill mother fucker",
+}
+```
