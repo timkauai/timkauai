@@ -12,7 +12,7 @@
 
 I coded a pretty cool website: [check it out](http://www.jamesdpratt.com)
 
-Want to work with me on a project?
+### Want to work with me on a project?
  - Email me at inquiries@jamesdpratt.com
 
 Social medias
