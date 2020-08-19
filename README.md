@@ -10,9 +10,10 @@
 * Python (a bit of AI with py torch)
 * C
 
-I coded a pretty cool website: [check it out](http://www.jamesdpratt.com)
+[My Personal Site](http://www.jamesdpratt.com)
 
 ### Want to work with me on a project?
  - Email me at inquiries@jamesdpratt.com
 
-Social medias
+#### Social medias
+<img src="https://img.shields.io/badge/jamesdprattt%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
