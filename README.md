@@ -12,9 +12,7 @@
 
 I coded a pretty cool website: [check it out](http://www.jamesdpratt.com)
 
-I love a good project, HMU -> email
+Want to work with me on a project?
+ - Email me at inquiries@jamesdpratt.com
 
 Social medias
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=timkauai&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timkauai&hide=TeX&layout=compact)
