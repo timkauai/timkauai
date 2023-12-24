@@ -9,8 +9,3 @@
 * Javascript (including React.js and Gatsby)
 * Swift
 * C
-
-[My Personal Site](http://www.jamesdpratt.com)
-
-#### Social medias
-<img src="https://img.shields.io/badge/jamesdprattt%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
