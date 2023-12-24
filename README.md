@@ -4,10 +4,10 @@
 * I love working on UI Design, and trying to perfect the looks of my websites
 
 ### My Languages (in order of proficiency)
+* Python (Pandas, Seaborn)
 * HTML, CSS (and Sass)
 * Javascript (including React.js and Gatsby)
 * Swift
-* Python (a bit of AI with py torch)
 * C
 
 [My Personal Site](http://www.jamesdpratt.com)
